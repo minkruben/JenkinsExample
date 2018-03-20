@@ -6,6 +6,8 @@ public class HelloPrinter {
 		System.out.println("==================================");
 		System.out.println("******Hello World To Jenkins*****");
 		System.out.println("==================================");
+
+		System.out.println("*** Hello java updates***");
 	}
 
 }
