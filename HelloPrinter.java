@@ -8,6 +8,8 @@ public class HelloPrinter {
 		System.out.println("==================================");
 
 		System.out.println("*** Hello java updates***");
+
+		System.out.println("*** updates on 22/03/2018 ***");
 	}
 
 }
